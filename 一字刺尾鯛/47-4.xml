@@ -1,0 +1,62 @@
+<annotation>
+	<folder>一字刺尾鯛</folder>
+	<filename>47-4.jpg</filename>
+	<path>C:\Users\windows10\Desktop\FindText\video\一字刺尾鯛\47-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acanthurus olivaceus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>250</ymin>
+			<xmax>636</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthurus olivaceus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>374</ymin>
+			<xmax>1073</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthurus olivaceus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1068</xmin>
+			<ymin>198</ymin>
+			<xmax>1423</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthurus olivaceus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1697</xmin>
+			<ymin>277</ymin>
+			<xmax>1920</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+</annotation>
