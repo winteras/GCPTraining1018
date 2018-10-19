@@ -1,0 +1,38 @@
+<annotation>
+	<folder>角蝶魚</folder>
+	<filename>550-36.jpg</filename>
+	<path>D:\阿杰\角蝶魚\550-36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zanclus cornutus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>138</ymin>
+			<xmax>816</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zanclus cornutus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>971</xmin>
+			<ymin>339</ymin>
+			<xmax>1394</xmax>
+			<ymax>848</ymax>
+		</bndbox>
+	</object>
+</annotation>

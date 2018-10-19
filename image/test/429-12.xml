@@ -1,0 +1,26 @@
+<annotation>
+	<folder>灰三齒鯊</folder>
+	<filename>429-12.jpg</filename>
+	<path>C:\Users\windows10\Desktop\FindText\video\灰三齒鯊\429-12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Triaenodon obesus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>758</xmin>
+			<ymin>5</ymin>
+			<xmax>1775</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

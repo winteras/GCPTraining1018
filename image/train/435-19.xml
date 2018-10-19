@@ -1,0 +1,26 @@
+<annotation>
+	<folder>三帶立旗鯛</folder>
+	<filename>435-19.jpg</filename>
+	<path>C:\Users\windows10\Desktop\FindText\video\三帶立旗鯛\435-19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heniochus chrysostomus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>186</ymin>
+			<xmax>1414</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>

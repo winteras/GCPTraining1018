@@ -1,0 +1,26 @@
+<annotation>
+	<folder>角蝶魚</folder>
+	<filename>549-11.jpg</filename>
+	<path>D:\阿杰\角蝶魚\549-11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zanclus cornutus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>794</xmin>
+			<ymin>418</ymin>
+			<xmax>1559</xmax>
+			<ymax>1043</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>無齒</folder>
+	<filename>377-65.jpg</filename>
+	<path>D:\阿杰\無齒\377-65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gnathanodon speciosus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>480</ymin>
+			<xmax>844</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gnathanodon speciosus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1219</xmin>
+			<ymin>529</ymin>
+			<xmax>1791</xmax>
+			<ymax>754</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gnathanodon speciosus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>845</xmin>
+			<ymin>791</ymin>
+			<xmax>1427</xmax>
+			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+</annotation>

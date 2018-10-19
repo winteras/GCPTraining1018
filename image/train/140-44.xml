@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>140-44.jpg</filename>
+	<path>C:\Users\user\Desktop\Himantura gerrardi\training\140-44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Himantura gerrardi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>192</ymin>
+			<xmax>1427</xmax>
+			<ymax>993</ymax>
+		</bndbox>
+	</object>
+</annotation>

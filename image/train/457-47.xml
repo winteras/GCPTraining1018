@@ -1,0 +1,26 @@
+<annotation>
+	<folder>汙翅真鯊</folder>
+	<filename>457-47.jpg</filename>
+	<path>C:\Users\windows10\Desktop\FindText\video\汙翅真鯊\457-47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carcharhinus melanopterus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>539</ymin>
+			<xmax>1445</xmax>
+			<ymax>1031</ymax>
+		</bndbox>
+	</object>
+</annotation>

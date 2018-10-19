@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>284-15.jpg</filename>
+	<path>C:\Users\user\Desktop\Lutjanus argentimaculatus\training\284-15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lutjanus argentimaculatus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>61</ymin>
+			<xmax>783</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>

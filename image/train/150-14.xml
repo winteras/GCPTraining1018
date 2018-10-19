@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>150-14.jpg</filename>
+	<path>C:\Users\user\Desktop\Nebrius ferrugineus\training\150-14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nebrius ferrugineus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>639</xmin>
+			<ymin>266</ymin>
+			<xmax>1095</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>
